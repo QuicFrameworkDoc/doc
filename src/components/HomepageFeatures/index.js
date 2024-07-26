@@ -8,8 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/program.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        QuicFrameWork专注于提供http/https服务,对外API简洁,只需简单了解即可构建出完整
+        的web应用服务
       </>
     ),
   },
@@ -18,8 +18,8 @@ const FeatureList = [
     Svg: require('@site/static/img/faster.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        QuicFrameWork默认使用基于UDP的quic协议进行网络连接,天然比基于TCP的http1-2速度快很多，
+        并且框架本身对路由查找进行索引优化，尽可能提高传输速率
       </>
     ),
   },
@@ -28,8 +28,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       QuicFrameWork专注于为开发者提供最舒适的http开发体验，使您用最简单的代码实现最高自由度
+       的开发
       </>
     ),
   },
